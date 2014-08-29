@@ -1,0 +1,10 @@
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\Atlas.dll
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\Atlas.pdb
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\websocket-sharp.dll
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\websocket-sharp.xml
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\obj\Debug\Atlas.dll
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\obj\Debug\Atlas.pdb
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\log4net.dll
+C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\log4net.xml
