@@ -14,6 +14,7 @@ namespace Atlas.WebSockets
         public static readonly String MARKET = "/market";
         public static readonly String LEVEL1 = "/level1";
         public static readonly String TRADES = "/trades";
+        public static readonly String ACTIONS = "/actions";
         public static string ACCOUNT(int accountno)
         {
             return string.Format("/account/{0}/info", accountno);

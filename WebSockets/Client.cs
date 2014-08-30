@@ -133,6 +133,11 @@ namespace Atlas.WebSockets
             return false;
         }
 
+        public bool Send(AtlasAction action)
+        {
+            return send(action, true);
+        }
+
         private bool addExtension(BayeuxExtension ext)
         {
             lock(extensions)
