@@ -8,3 +8,5 @@ C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\obj\Debug\Atla
 C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\obj\Debug\Atlas.pdb
 C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\log4net.dll
 C:\Users\Habeel\Documents\Visual Studio 2013\Projects\Atlas\Atlas\bin\Debug\log4net.xml
+C:\Users\Habeel\documents\visual studio 2013\Projects\Atlas\Atlas\bin\Debug\RestSharp.dll
+C:\Users\Habeel\documents\visual studio 2013\Projects\Atlas\Atlas\bin\Debug\RestSharp.xml
